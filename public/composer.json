@@ -1,0 +1,15 @@
+{
+    "name": "thebigsurf/supertubes",
+    "description": "The Big Surf - site packages",
+    "require": {
+        "respect/validation": "^0.9.3",
+        "anahkiasen/underscore-php": "^2.0",
+        "ktamas77/firebase-php": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Guy Campbell",
+            "email": "guy@thebigsurf.co.uk"
+        }
+    ]
+}

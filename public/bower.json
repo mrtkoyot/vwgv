@@ -1,0 +1,13 @@
+{
+  "name": "templates",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "*",
+    "respond"                : "*",
+    "jquery-cookie"          : "*",
+    "jquery-validation"      : "*",
+    "dropzone"               : "*",
+    "video-js"               : "*"
+  },
+  "devDependencies": {}
+}
